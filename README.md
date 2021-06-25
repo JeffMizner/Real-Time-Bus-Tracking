@@ -4,6 +4,7 @@ This is an exercise showing the use of HTML, JavaScript, and CSS as real-time bu
 
 ## How to Use
 Copy the .html, .css, and .js files to your system. Open the index.html file within your browser and track the Route 7 bus on its journey through Boston.
+DEMO - https://jeffmizner.github.io/Real-Time-Bus-Tracking/
 
 ## Future Improvements
 I plan on researching and adding map zoom functionality as well as the addition of other routes, differentiated by color. I would also like to change the marker style from a teardrop to an actual bus icon.
